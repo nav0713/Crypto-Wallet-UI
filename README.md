@@ -1,10 +1,8 @@
-# invest
+# Digital Wallet UI design
 
-A new Flutter project.
-
-## Getting Started
 
 ##Screenshots
+
 <div style=display="inline-block";>
        <img src="https://github.com/nav0713/images/blob/master/crypto1.png" width="250" height="500" title="hover text">
        <img src="https://github.com/nav0713/images/blob/master/crypto2.png" width="250" height="500" title="hover text">
